@@ -1,0 +1,6 @@
+framework module IOSFunctions {
+  umbrella header "IOSFunctions-umbrella.h"
+
+  export *
+  module * { export * }
+}
